@@ -40,6 +40,8 @@ dependencies {
     //noinspection UseTomlInstead
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.4")
     implementation("androidx.navigation:navigation-ui-ktx:2.9.4")
+    implementation("androidx.viewpager2:viewpager2:1.1.0")
+
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
